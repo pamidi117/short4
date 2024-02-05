@@ -1,6 +1,7 @@
 // C++ code to illustrate Queue in 
 // Standard Template Library (STL)
 #include <stack>
+
 #include <iostream>
 
 using namespace std;
